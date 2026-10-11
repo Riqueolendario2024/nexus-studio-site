@@ -1,6 +1,6 @@
-# Nexus Studio — site público
+# Nexus Engine Pro — site público
 
-Versão compilada do editor visual de jogos 2D Nexus Studio.
+Versão compilada do editor visual de jogos 2D Nexus Engine Pro.
 
 Acesse: https://riqueolendario2024.github.io/nexus-studio-site/
 
