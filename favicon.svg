@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nexus Engine"><rect x="2" y="2" width="60" height="60" rx="10" fill="#bb4c10"/><path d="M20 45V19l24 26V19" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="Nexus Engine">
+  <rect x="4" y="4" width="192" height="192" rx="38" fill="#25231f"/>
+  <path d="m100 27 63 36v74l-63 36-63-36V63Z" fill="none" stroke="#cd692f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M69 133V67l62 66V67" fill="none" stroke="#faf7f1" stroke-width="14" stroke-linejoin="miter"/>
+</svg>
